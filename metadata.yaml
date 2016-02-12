@@ -1,0 +1,43 @@
+_repo: Ligeia-und-andere-Novellen-Sieben-Gedichte-Ligeia-Berenice-Morella-Eleonora-Die-Insel-der-Fee__50887
+contributor:
+  illustrator:
+    agent_name: Kubin, Alfred
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '39044'
+    url: http://www.gutenberg.org/2009/agents/39044
+  translators:
+  - agent_name: Etzel, Theodor
+    gutenberg_agent_id: '46127'
+    url: http://www.gutenberg.org/2009/agents/46127
+  - agent_name: Etzel, Gisela
+    gutenberg_agent_id: '46126'
+    url: http://www.gutenberg.org/2009/agents/46126
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2016-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50887'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Ligeia und andere Novellen / Sieben Gedichte
+
+  Ligeia / Berenice / Morella / Eleonora / Die Insel der Fee
+
+  / Landors Landhaus / Der Herrschaftssitz Arnheim / Der
+
+  Rabe / Annabel Lee / Ulalume / Die Glocken / Tamerlan /
+
+  Das Kolosseum / Die Stadt im Meer'
+url: http://www.gutenberg.org/ebooks/50887
